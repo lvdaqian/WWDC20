@@ -18,3 +18,21 @@
 - 博客： https://sunsetwan.github.io/
 - Github：https://github.com/SunsetWan
 
+#### WWDC 10041 - What's new in SwiftUI
+#### WWDC 10033 - Build SwiftUI views for widgets
+- 作者：Edmond，iOS 开发者，目前就职于雪球。
+- 博客：https://looseyi.github.io
+- GitHub：https://github.com/looseyi
+- 微博：https://weibo.com/foreverclp
+- Twitter：https://twitter.com/looseyi
+
+#### WWDC 10632 - Optimize Metal Performance for Apple Silicon Macs
+- 作者：Yuu，iOS 开发者，就职于 LinkedIn。
+- 博客：https://blog.yuusann.com
+- 微博：https://weibo.com/trmbhs
+
+#### WWDC 10090 - Decode ProRes with AVFoundation and VideoToolbox
+- 作者：莲叔，iOS 初级开发者，就职于 UC，主要搞多媒体
+- 博客: http://aaaron7.github.io
+- Github: https://github.com/aaaron7
+- 即刻: amadeus_
