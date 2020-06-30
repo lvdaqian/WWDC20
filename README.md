@@ -74,3 +74,8 @@
 - 作者：红纸，iOS 开发者，目前就职于微医。
 - Github: https://github.com/nianran
 - 微博：https://weibo.com/u/3211225157
+
+#### WWDC 10060 - Design high quality Siri media interactions
+#### WWDC 10073 - Empower your intents
+- 作者：wiilen，iOS 开发者。
+- Github: https://github.com/wiilen
