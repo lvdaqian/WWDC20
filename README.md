@@ -18,7 +18,7 @@
 - 博客：https://linusling.com/
 - GitHub：https://github.com/linusling
 - 微博：https://weibo.com/linusling
- 
+
 #### WWDC 10008 - Optimize the Core Image pipeline for your video app
 #### WWDC 10228 - What's new in Low-Latency HLS
 #### WWDC 10231 - Reduce Latency with HLS Blocking Playlist Reload
@@ -79,3 +79,30 @@
 #### WWDC 10073 - Empower your intents
 - 作者：wiilen，iOS 开发者。
 - Github: https://github.com/wiilen
+
+#### WWDC 10604 - Shop online with AR Quick Look
+#### WWDC 10601 - The artist’s AR toolkit
+#### WWDC 10107 - What's new in PencilKit
+#### WWDC 10148 - Inspect, modify, and construct PencilKit drawings
+#### WWDC 10106 - Meet Scribble for iPad
+- 作者：Chafferer，iOS 初级开发者，目前就职于手百 iOS 基础研发组。
+- GitHub：https://github.com/chafferer95
+- 博客: https://www.jianshu.com/u/bd2784e2d5a3
+
+#### WWDC 10114 - iPad and iPhone apps on Apple Silicon Macs
+#### WWDC 10143 - What's new in Mac Catalyst
+- 作者：我就是御姐我摊牌了，iOS / Flutter 开发者，目前就职于美团，负责探索 Flutter 在业务容器上的落地实践
+- 博客：https://forelax.space
+- GitHub:https://github.com/ForelaxX
+- 微博:https://weibo.com/u/3889029090/
+
+#### WWDC 10076 - Diagnose performance issues with the Xcode Organizer
+
+- 作者：脱脂棉布团，iOS 开发者，目前在某小厂从事社交产品开发。 
+- 博客：http://blog.chendongnan.com/
+
+#### WWDC 10048 - Build Complications in SwiftUI
+- 作者: BluesJiang，iOS 开发者，目前就职于阿里巴巴，手淘 iOS 架构组
+- Github：https://github.com/bluesjiang
+- 博客： https://bluesjiang.github.io
+
