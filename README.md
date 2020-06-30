@@ -46,7 +46,7 @@
 - 微博：https://weibo.com/trmbhs
 
 #### WWDC 10090 - Decode ProRes with AVFoundation and VideoToolbox
-- 作者：莲叔，iOS 初级开发者，就职于 UC，主要搞多媒体
+- 作者：莲叔，中年 iOS 开发者，就职于 UC，主要搞多媒体
 - 博客: http://aaaron7.github.io
 - Github: https://github.com/aaaron7
 - 即刻: amadeus_
