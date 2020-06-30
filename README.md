@@ -33,6 +33,12 @@
 - Github：https://github.com/SunsetWan
 
 #### WWDC 10041 - What's new in SwiftUI
+
+#### WWDC 10174 - Explore app clips
+- 作者:  pmst，iOS 开发者。
+- 微博: https://weibo.com/Ninth_Day
+- Github：https://github.com/colourful987
+
 #### WWDC 10033 - Build SwiftUI views for widgets
 - 作者：Edmond，iOS 开发者，目前就职于雪球。
 - 博客：https://looseyi.github.io
