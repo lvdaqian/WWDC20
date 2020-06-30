@@ -74,3 +74,10 @@
 - 作者：红纸，iOS 开发者，目前就职于微医。
 - Github: https://github.com/nianran
 - 微博：https://weibo.com/u/3211225157
+
+#### WWDC 10114 - iPad and iPhone apps on Apple Silicon Macs
+#### WWDC 10143 - What's new in Mac Catalyst
+- 作者：我就是御姐我摊牌了，iOS / Flutter 开发者，目前就职于美团，负责探索 Flutter 在业务容器上的落地实践
+- 博客：https://forelax.space
+- GitHub:https://github.com/ForelaxX
+- 微博:https://weibo.com/u/3889029090/
