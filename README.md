@@ -50,3 +50,10 @@
 - 博客: http://aaaron7.github.io
 - Github: https://github.com/aaaron7
 - 即刻: amadeus_
+
+#### WWDC 10181 - What's new in HealthKit
+#### WWDC 10151 - What's new in CareKit
+#### WWDC 10664 - Getting started with HealthKit
+- 作者：Parsifal，iOS 开发者，目前就职于微医。
+- GitHub：https://github.com/ParsifalC
+- 微博：https://weibo.com/parsifalchang
