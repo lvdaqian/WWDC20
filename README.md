@@ -87,3 +87,8 @@
 
 - 作者：脱脂棉布团，iOS 开发者，目前在某小厂从事社交产品开发。 
 - 博客：http://blog.chendongnan.com/
+
+#### WWDC 10048 - Build Complications in SwiftUI
+- 作者: BluesJiang，iOS 开发者，目前就职于阿里巴巴，手淘 iOS 架构组
+- Github：https://github.com/bluesjiang
+- 博客： https://bluesjiang.github.io
