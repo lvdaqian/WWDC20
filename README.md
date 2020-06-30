@@ -18,7 +18,7 @@
 - 博客：https://linusling.com/
 - GitHub：https://github.com/linusling
 - 微博：https://weibo.com/linusling
- 
+
 #### WWDC 10008 - Optimize the Core Image pipeline for your video app
 #### WWDC 10228 - What's new in Low-Latency HLS
 #### WWDC 10231 - Reduce Latency with HLS Blocking Playlist Reload
@@ -74,3 +74,8 @@
 - 作者：红纸，iOS 开发者，目前就职于微医。
 - Github: https://github.com/nianran
 - 微博：https://weibo.com/u/3211225157
+
+#### WWDC 10076 - Diagnose performance issues with the Xcode Organizer
+
+- 作者：脱脂棉布团，iOS 开发者，目前在某小厂从事社交产品开发。 
+- 博客：http://blog.chendongnan.com/
