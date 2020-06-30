@@ -74,3 +74,12 @@
 - 作者：红纸，iOS 开发者，目前就职于微医。
 - Github: https://github.com/nianran
 - 微博：https://weibo.com/u/3211225157
+
+#### WWDC 10604 - Shop online with AR Quick Look
+#### WWDC 10601 - The artist’s AR toolkit
+#### WWDC 10107 - What's new in PencilKit
+#### WWDC 10148 - Inspect, modify, and construct PencilKit drawings
+#### WWDC 10106 - Meet Scribble for iPad
+- 作者：Chafferer，iOS 初级开发者，目前就职于手百 iOS 基础研发组。
+- GitHub：https://github.com/chafferer95
+- 博客: https://www.jianshu.com/u/bd2784e2d5a3
