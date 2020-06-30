@@ -13,8 +13,14 @@
 - 微博：https://weibo.com/desgard
 - Twitter：https://twitter.com/Desgard_Duan
  
+#### WWDC 10632 - Optimize Metal Performance for Apple Silicon Macs
+- 作者：Yuu，iOS 开发者，就职于 LinkedIn。
+- 博客：https://blog.yuusann.com
+- 微博：https://weibo.com/trmbhs
+
 #### WWDC 10090 - Decode ProRes with AVFoundation and VideoToolbox
 - 作者：莲叔，iOS 初级开发者，就职于 UC，主要搞多媒体
 - 博客: http://aaaron7.github.io
 - Github: https://github.com/aaaron7
 - 即刻: amadeus_
+
