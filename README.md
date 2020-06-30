@@ -13,3 +13,8 @@
 - 微博：https://weibo.com/desgard
 - Twitter：https://twitter.com/Desgard_Duan
  
+#### WWDC20 10168 - Explore logging in Swift
+- 作者: Sunset Wan，iOS 开发新手。
+- 博客： https://sunsetwan.github.io/
+- Github：https://github.com/SunsetWan
+
