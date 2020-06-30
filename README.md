@@ -67,4 +67,10 @@
 
 #### WWDC 10659 - Introducing StoreKit Testing in Xcode
 - 作者：ChengzhiHuang，iOS 开发者，目前就职于字节长视频团队，曾就职于阅文集团新产品技术中心。
-- GitHub：https:////github.com/ChengzhiHuang
+- GitHub：https://github.com/ChengzhiHuang
+
+#### WWDC 10057 - Identify trends with the Power and Performance API
+#### WWDC 10209 - What's new in Core NFC
+- 作者：红纸，iOS 开发者，目前就职于微医。
+- Github: https://github.com/nianran
+- 微博：https://weibo.com/u/3211225157
