@@ -57,3 +57,9 @@
 - 作者：Parsifal，iOS 开发者，目前就职于微医。
 - GitHub：https://github.com/ParsifalC
 - 微博：https://weibo.com/parsifalchang
+
+#### WWDC 10057 - Identify trends with the Power and Performance API
+#### WWDC 10209 - What's new in Core NFC
+- 作者：红纸，iOS 开发者，目前就职于微医
+- Github: https://github.com/nianran
+- 微博：https://weibo.com/u/3211225157
