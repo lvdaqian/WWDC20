@@ -19,6 +19,14 @@
 - GitHub：https://github.com/linusling
 - 微博：https://weibo.com/linusling
  
+#### WWDC 10008 - Optimize the Core Image pipeline for your video app
+#### WWDC 10228 - What's new in Low-Latency HLS
+#### WWDC 10231 - Reduce Latency with HLS Blocking Playlist Reload
+#### WWDC 10655 - Discover how to download and play HLS offline
+- 作者：jojotov，iOS 开发者，目前就职于字节跳动直播 iOS 团队
+- GitHub: https://github.com/jojotov
+- 微博: https://weibo.com/dingtongzhou
+
 #### WWDC20 10168 - Explore logging in Swift
 - 作者: Sunset Wan，iOS 开发新手。
 - 博客： https://sunsetwan.github.io/
