@@ -14,7 +14,7 @@
 - Twitter：https://twitter.com/Desgard_Duan
 
 #### WWDC 10676 - Build trust through better privacy
-- 作者：小铁匠Linus，iOS 初级开发者，微信公众号《WLF工作生活两不误》号主。
+- 作者：小铁匠Linus，iOS 初级开发者，微信公众号《WLB工作生活两不误》号主。
 - 博客：https://linusling.com/
 - GitHub：https://github.com/linusling
 - 微博：https://weibo.com/linusling
