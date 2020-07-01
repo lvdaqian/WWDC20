@@ -104,6 +104,12 @@
 #### WWDC 10048 - Build Complications in SwiftUI
 - 作者：BluesJiang，iOS 开发者，目前就职于阿里巴巴，手淘 iOS 架构组
 - Github：https://github.com/bluesjiang
+- 博客： https://bluesjiang.github.io
+
+#### WWDC 10160 - Formatters: Make data human-friendly
+- 作者: 老驴，iOS 新手，目前就职于某不知名安卓厂。
+- Github：https://github.com/olddonkey
+- 微博：https://www.weibo.com/6090610445
 - 博客：https://bluesjiang.github.io
 
 #### WWDC 10140 - Build location-aware enterprise apps
