@@ -104,7 +104,7 @@
 
 #### WWDC 10076 - Diagnose performance issues with the Xcode Organizer
 
-- 作者：脱脂棉布团，iOS 开发者，目前在某小厂从事社交产品开发。 
+- 作者：脱脂棉布团，iOS 开发者，目前在某小厂从事社交产品开发。
 - 博客：http://blog.chendongnan.com/
 
 #### WWDC 10048 - Build Complications in SwiftUI
@@ -148,3 +148,8 @@
 #### WWDC20 10660 - What's new in location
 - 作者：这个汤圆没有馅，iOS / 前端 开发者。
 - 博客：https://www.jianshu.com/u/6ac3670d9aea
+
+#### WWDC20 10056 - Optimize the interface of your Mac Catalyst app
+#### WWDC20 10040 - Data Essentials in SwiftUI
+
+- 作者：CoderAFI
