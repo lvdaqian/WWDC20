@@ -106,3 +106,7 @@
 - Github：https://github.com/bluesjiang
 - 博客： https://bluesjiang.github.io
 
+#### WWDC 10078 - Why is my app getting killed?
+- 作者: 郑一一，iOS 开发者，目前就职于一家少儿英语在线教育公司
+- 博客： https://www.jianshu.com/u/076cc5e18bb8
+
