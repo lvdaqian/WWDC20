@@ -106,3 +106,7 @@
 - Github：https://github.com/bluesjiang
 - 博客： https://bluesjiang.github.io
 
+#### WWDC20 10652 - Meet the new Photos picker
+#### WWDC20 10660 - What's new in location
+- 作者：这个汤圆没有馅，iOS / 前端 开发者。
+- 博客：https://www.jianshu.com/u/6ac3670d9aea
