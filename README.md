@@ -106,6 +106,12 @@
 - Github：https://github.com/bluesjiang
 - 博客： https://bluesjiang.github.io
 
+#### WWDC 10646 - What's new in Web Inspector
+- 作者：Lefex，iOS/前端 开发者，目前就职百度，负责 iOS、前端项目开发，正在通过公众号《素燕》写一本前端多媒体电子书
+- 博客：https://lefex.github.io
+- GitHub：https://github.com/lefex/
+- 微博：https://weibo.com/5953150140/profile
+
 #### WWDC 10160 - Formatters: Make data human-friendly
 - 作者: 老驴，iOS 新手，目前就职于某不知名安卓厂。
 - Github：https://github.com/olddonkey
