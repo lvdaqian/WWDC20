@@ -106,3 +106,7 @@
 - Github：https://github.com/bluesjiang
 - 博客： https://bluesjiang.github.io
 
+#### WWDC 10160 - Formatters: Make data human-friendly
+- 作者: 老驴，iOS 新手，目前就职于某不知名安卓厂。
+- Github：https://github.com/olddonkey
+- 微博: https://www.weibo.com/6090610445
