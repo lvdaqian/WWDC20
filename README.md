@@ -112,6 +112,12 @@
 - Github：https://github.com/bluesjiang
 - 博客： https://bluesjiang.github.io
 
+#### WWDC 10017 - Core Data: Sundries and maxims
+- 作者：kukushi，iOS 开发者，目前就职于字节跳动。
+- 博客：https://kukushi.github.io
+- GitHub：https://github.com/kukushi
+- 微博：https://weibo.com/hex1n
+
 #### WWDC 10646 - What's new in Web Inspector
 - 作者：Lefex，iOS/前端 开发者，目前就职百度，负责 iOS、前端项目开发，正在通过公众号《素燕》写一本前端多媒体电子书
 - 博客：https://lefex.github.io
