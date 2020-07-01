@@ -114,3 +114,9 @@
 - 作者：郑一一，iOS 开发者，目前就职于一家少儿英语在线教育公司
 - 博客：https://www.jianshu.com/u/076cc5e18bb8
 
+#### WWDC 10146 - Configure and link your app clips
+- 作者：JonyFang，iOS 开发者, TIME 时间卡独立开发者，目前就职于本来生活网 P2C 项目组。
+- GitHub：https://github.com/JonyFang
+- 微博：https://weibo.com/u/3034766044
+- Twitter：https://twitter.com/jony_chunfang
+
