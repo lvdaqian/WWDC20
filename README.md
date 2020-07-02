@@ -152,5 +152,9 @@
 #### WWDC20 10056 - Optimize the interface of your Mac Catalyst app
 #### WWDC20 10040 - Data Essentials in SwiftUI
 - 作者：CoderAFI
+
 #### WWDC20 10105 - Build for iPad
 - 作者：ttang，iOS 开发者，现就职于字节跳动飞书团队
+
+#### WWDC20 10671 - Architecting for subscriptions
+- 作者：天豆，iOS 开发者，目前就职于字节跳动
