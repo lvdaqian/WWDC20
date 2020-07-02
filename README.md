@@ -161,7 +161,7 @@
 #### WWDC20 10649 - Add custom views and modifiers to the Xcode Library
 #### WWDC20 10149 - Structure your app for SwiftUI previews
 #### WWDC20 10185 - Visually edit SwiftUI views
-- 作者：希德，iOS 开发者，前“有经验的前端开发工程师”，就职于网易严选，主要工作打杂，工具人。正在写书《Thinkable SwiftUI》（严重拖稿中）
+- 作者：希德，iOS 开发者，前“有经验的前端开发工程师”，就职于网易严选，工具人。正在写书《Thinkable SwiftUI》（严重拖稿中）
 - Github: https://github.com/hite
 - 博客：http://hite.me
 - Twitter：https://twitter.com/xiangheka
