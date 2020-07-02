@@ -165,3 +165,8 @@
 - Github: https://github.com/hite
 - 博客：http://hite.me
 - Twitter：https://twitter.com/xiangheka
+
+#### WWDC20 10034 - Widgets Code-along, part1: The adventure begins
+- 作者：DylanYang，iOS 开发者, 现就职于字节跳动音乐团队
+- 微博: [@\_\_\_羊\_\_\_](https://weibo.com/u/1876331863)
+- Github: https://github.com/Dylan19Yang
