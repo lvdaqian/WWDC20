@@ -165,3 +165,9 @@
 - Github: https://github.com/hite
 - 博客：http://hite.me
 - Twitter：https://twitter.com/xiangheka
+
+#### WWDC20 10118 - Create app clips for other businesses
+- 作者：林永坚 (Jake Lin)，Mobile Tech Lead，目前就职 realestate.com.au，负责客户产品与体验部门各个移动产品的开发
+- GitHub:https://github.com/JakeLin
+- 微博:https://www.weibo.com/yongjianlin
+- Twitter:https://twitter.com/Jake_Lin
