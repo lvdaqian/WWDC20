@@ -165,3 +165,7 @@
 - Github: https://github.com/hite
 - 博客：http://hite.me
 - Twitter：https://twitter.com/xiangheka
+
+#### WWDC20 10214 - Port your Mac app to Apple Silicon
+- 作者：老峰，iOS 开发者，《iOSTips》公众号主，就职于某不知名小厂
+- Github: https://github.com/Gesantung
