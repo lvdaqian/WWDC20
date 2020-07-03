@@ -170,3 +170,7 @@
 - 作者：DylanYang，iOS 开发者, 现就职于字节跳动音乐团队
 - 微博：[@\_\_\_羊\_\_\_](https://weibo.com/u/1876331863)
 - Github：https://github.com/Dylan19Yang
+
+#### WWDC20 10214 - Port your Mac app to Apple Silicon
+- 作者：老峰，iOS 开发者，《iOSTips》公众号主，就职于某不知名小厂
+- Github: https://github.com/Gesantung
