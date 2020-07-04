@@ -167,6 +167,11 @@
 - 博客：http://hite.me
 - Twitter：https://twitter.com/xiangheka
 
+#### WWDC20 10034 - Widgets Code-along, part1: The adventure begins
+- 作者：DylanYang，iOS 开发者, 现就职于字节跳动音乐团队
+- 微博：[@\_\_\_羊\_\_\_](https://weibo.com/u/1876331863)
+- Github：https://github.com/Dylan19Yang
+
 #### WWDC20 10118 - Create app clips for other businesses
 - 作者：林永坚 (Jake Lin)，Mobile Tech Lead，目前就职 realestate.com.au，负责客户产品与体验部门各个移动产品的开发
 - GitHub:https://github.com/JakeLin
