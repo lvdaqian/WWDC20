@@ -177,3 +177,6 @@
 - 博客：https://kemchenj.github.io/
 - GitHub：https://github.com/kemchenj
 - Twitter：https://twitter.com/kemchenj
+
+#### WWDC20 10013 - Get to know Metal function pointers
+- 作者：crowfea，iOS 开发者，就职于字节跳动
