@@ -169,3 +169,6 @@
 #### WWDC20 10214 - Port your Mac app to Apple Silicon
 - 作者：老峰，iOS 开发者，《iOSTips》公众号主，就职于某不知名小厂
 - Github: https://github.com/Gesantung
+
+#### WWDC20 10013 - Get to know Metal function pointers
+- 作者：crowfea，iOS 开发者，就职于字节跳动
