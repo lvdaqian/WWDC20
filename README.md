@@ -158,6 +158,7 @@
 
 #### WWDC20 10671 - Architecting for subscriptions
 - 作者：天豆，iOS 开发者，目前就职于字节跳动
+
 #### WWDC20 10649 - Add custom views and modifiers to the Xcode Library
 #### WWDC20 10149 - Structure your app for SwiftUI previews
 #### WWDC20 10185 - Visually edit SwiftUI views
@@ -165,6 +166,12 @@
 - Github: https://github.com/hite
 - 博客：http://hite.me
 - Twitter：https://twitter.com/xiangheka
+
+#### WWDC 10621 - Support performance-intensive apps and games
+#### WWDC 10642 - Build Image and Video Style Transfer models in Create ML
+- 作者：潘名扬，iOS 初级开发者，目前就职于腾讯，某不知名短视频社区
+- Github：https://github.com/panmingyang2009
+- 博客： https://punmy.cn
 
 #### WWDC20 10214 - Port your Mac app to Apple Silicon
 - 作者：老峰，iOS 开发者，《iOSTips》公众号主，就职于某不知名小厂
