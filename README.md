@@ -169,3 +169,11 @@
 #### WWDC20 10214 - Port your Mac app to Apple Silicon
 - 作者：老峰，iOS 开发者，《iOSTips》公众号主，就职于某不知名小厂
 - Github: https://github.com/Gesantung
+
+#### WWDC 100147 - Distribute binary frameworks as Swift Packages
+#### WWDC 100169 - Swift packages: Resources and localization
+
+- 作者：四娘，iOS 初级开发，目前就职于格隆汇，对 Swift 和编译器相关领域感兴趣
+- 博客：https://kemchenj.github.io/
+- GitHub：https://github.com/kemchenj
+- Twitter：https://twitter.com/kemchenj
