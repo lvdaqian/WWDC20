@@ -158,6 +158,7 @@
 
 #### WWDC20 10671 - Architecting for subscriptions
 - 作者：天豆，iOS 开发者，目前就职于字节跳动
+
 #### WWDC20 10649 - Add custom views and modifiers to the Xcode Library
 #### WWDC20 10149 - Structure your app for SwiftUI previews
 #### WWDC20 10185 - Visually edit SwiftUI views
@@ -171,6 +172,41 @@
 - 微博：[@\_\_\_羊\_\_\_](https://weibo.com/u/1876331863)
 - Github：https://github.com/Dylan19Yang
 
+#### WWDC20 10118 - Create app clips for other businesses
+- 作者：林永坚 (Jake Lin)，Mobile Tech Lead，目前就职 realestate.com.au，负责客户产品与体验部门各个移动产品的开发
+- GitHub:https://github.com/JakeLin
+- 微博:https://www.weibo.com/yongjianlin
+- Twitter:https://twitter.com/Jake_Lin
+
+#### WWDC 10621 - Support performance-intensive apps and games
+#### WWDC 10642 - Build Image and Video Style Transfer models in Create ML
+- 作者：潘名扬，iOS 初级开发者，目前就职于腾讯，某不知名短视频社区
+- Github：https://github.com/panmingyang2009
+- 博客： https://punmy.cn
+
 #### WWDC20 10214 - Port your Mac app to Apple Silicon
 - 作者：老峰，iOS 开发者，《iOSTips》公众号主，就职于某不知名小厂
 - Github: https://github.com/Gesantung
+
+#### WWDC20 10068 - What's new in SiriKit and Shortcuts
+- 作者：NotFound9，iOS / 后端开发者，Github 1.5K+ Star数的开源后端技术总结项目-interviewGuide作者，微信公众号《大厂面试》号主
+- GitHub：https://github.com/NotFound9
+- 博客：https://juejin.im/user/5b370a42e51d4558ce5eb969
+- 微博：https://weibo.com/u/3951595216
+
+#### WWDC20 10173 - Get the most out of Sign in with Apple
+- 作者：ZUBIN，iOS 开发者，目前就职于阿里
+- 博客：https://kangzubin.com
+- GitHub：https://github.com/kangzubin
+- 微博：https://weibo.com/kangzubin
+
+#### WWDC 100147 - Distribute binary frameworks as Swift Packages
+#### WWDC 100169 - Swift packages: Resources and localization
+
+- 作者：四娘，iOS 初级开发，目前就职于格隆汇，对 Swift 和编译器相关领域感兴趣
+- 博客：https://kemchenj.github.io/
+- GitHub：https://github.com/kemchenj
+- Twitter：https://twitter.com/kemchenj
+
+#### WWDC20 10013 - Get to know Metal function pointers
+- 作者：crowfea，iOS 开发者，就职于字节跳动
