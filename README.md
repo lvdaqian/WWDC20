@@ -175,3 +175,14 @@
 - 博客：https://kangzubin.com
 - GitHub：https://github.com/kangzubin
 - 微博：https://weibo.com/kangzubin
+
+#### WWDC 100147 - Distribute binary frameworks as Swift Packages
+#### WWDC 100169 - Swift packages: Resources and localization
+
+- 作者：四娘，iOS 初级开发，目前就职于格隆汇，对 Swift 和编译器相关领域感兴趣
+- 博客：https://kemchenj.github.io/
+- GitHub：https://github.com/kemchenj
+- Twitter：https://twitter.com/kemchenj
+
+#### WWDC20 10013 - Get to know Metal function pointers
+- 作者：crowfea，iOS 开发者，就职于字节跳动
