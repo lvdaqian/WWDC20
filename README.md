@@ -215,3 +215,8 @@
 
 #### WWDC20 10013 - Get to know Metal function pointers
 - 作者：crowfea，iOS 开发者，就职于字节跳动
+
+#### WWDC20 10071 - Evaluate and optimize voice interaction for your app
+- 作者：Rickey，iOS 开发者，就职于字节跳动
+- 博客：https://github.com/RickeyBoy/Rickey-iOS-Notes
+- GitHub：https://github.com/RickeyBoy
