@@ -220,3 +220,9 @@
 - 作者：Rickey，iOS 开发者，就职于字节跳动
 - 博客：https://github.com/RickeyBoy/Rickey-iOS-Notes
 - GitHub：https://github.com/RickeyBoy
+
+#### WWDC20 10217 - Explore numerical computing in Swift
+
+- 作者：Nemo，iOS 初级开发者，目前就职于字节跳动
+- 博客：[https://nemocdz.github.io/](https://nemocdz.github.io/)
+- GitHub：[https://github.com/Nemocdz](https://github.com/Nemocdz)
