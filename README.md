@@ -39,7 +39,8 @@
 - 微博: https://weibo.com/Ninth_Day
 - Github：https://github.com/colourful987
 
-#### WWDC 10033 - Build SwiftUI views for widgets
+#### WWDC 10033 - Build SwiftUI views for 
+s
 - 作者：Edmond，iOS 开发者，目前就职于雪球。
 - 博客：https://looseyi.github.io
 - GitHub：https://github.com/looseyi
@@ -226,3 +227,9 @@
 - 作者：Nemo，iOS 初级开发者，目前就职于字节跳动
 - 博客：[https://nemocdz.github.io/](https://nemocdz.github.io/)
 - GitHub：[https://github.com/Nemocdz](https://github.com/Nemocdz)
+
+#### WWDC 10028 - Meet WidgetKit
+- 作者：zvving，iOS 开发者，目前就职于抖音音乐
+- 博客：https://www.jianshu.com/u/d6f6c875ad03
+- GitHub: https://github.com/zvving
+- Twitter: https://twitter.com/zvving
