@@ -88,6 +88,7 @@
 #### WWDC 10604 - Shop online with AR Quick Look
 #### WWDC 10601 - The artist’s AR toolkit
 #### WWDC 10104 - Adopt the new look of macOS
+#### WWDC 10111 - Boost performance and security with modern networking
 - 作者：tom，也可以称呼为小T，老司机周报编辑之一，目前在字节跳动广州研发中心工作，可以加微信：tomtan，切磋技术和聊情怀都可以喔~~~~
 - GitHub：https://github.com/tom510230
 - 博客不常更新：https://xiaozhuanlan.com/u/6682065345 或者 https://juejin.im/user/58d8cd78570c350058e249eb/posts
@@ -98,11 +99,6 @@
 - 作者：Chafferer，iOS 初级开发者，目前就职于手百 iOS 基础研发组。
 - GitHub：https://github.com/chafferer95
 - 博客：https://www.jianshu.com/u/bd2784e2d5a3
-
-#### WWDC 10111 - Boost performance and security with modern networking
-- 作者：tom，也可以称呼为小T，老司机周报编辑之一，目前在字节跳动广州研发中心工作，可以加微信：tomtan，切磋技术和聊情怀都可以喔~~~~
-- GitHub：https://github.com/tom510230
-- 博客不常更新：https://xiaozhuanlan.com/u/6682065345 或者 https://juejin.im/user/58d8cd78570c350058e249eb/posts
 
 #### WWDC 10114 - iPad and iPhone apps on Apple Silicon Macs
 #### WWDC 10143 - What's new in Mac Catalyst
