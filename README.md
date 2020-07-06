@@ -235,6 +235,10 @@ s
 - 博客：[https://nemocdz.github.io/](https://nemocdz.github.io/)
 - GitHub：[https://github.com/Nemocdz](https://github.com/Nemocdz)
 
+#### WWDC20 10012 - Discover Ray Tracing with Metal
+
+- 作者：F010BE，iOS 初级开发者，目前就职于字节跳动
+
 #### WWDC 10028 - Meet WidgetKit
 - 作者：zvving，iOS 开发者，目前就职于抖音音乐
 - 博客：https://www.jianshu.com/u/d6f6c875ad03
