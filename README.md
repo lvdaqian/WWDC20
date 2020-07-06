@@ -33,14 +33,12 @@
 - Github：https://github.com/SunsetWan
 
 #### WWDC 10041 - What's new in SwiftUI
-
 #### WWDC 10174 - Explore app clips
 - 作者:  pmst，iOS 开发者。
 - 微博: https://weibo.com/Ninth_Day
 - Github：https://github.com/colourful987
 
 #### WWDC 10033 - Build SwiftUI views for 
-s
 - 作者：Edmond，iOS 开发者，目前就职于雪球。
 - 博客：https://looseyi.github.io
 - GitHub：https://github.com/looseyi
@@ -93,16 +91,19 @@ s
 - 作者：tom，也可以称呼为小T，老司机周报编辑之一，目前在字节跳动广州研发中心工作，可以加微信：tomtan，切磋技术和聊情怀都可以喔~~~~
 - GitHub：https://github.com/tom510230
 - 博客不常更新：https://xiaozhuanlan.com/u/6682065345 或者 https://juejin.im/user/58d8cd78570c350058e249eb/posts
+
 #### WWDC 10107 - What's new in PencilKit
 #### WWDC 10148 - Inspect, modify, and construct PencilKit drawings
 #### WWDC 10106 - Meet Scribble for iPad
 - 作者：Chafferer，iOS 初级开发者，目前就职于手百 iOS 基础研发组。
 - GitHub：https://github.com/chafferer95
 - 博客：https://www.jianshu.com/u/bd2784e2d5a3
+
 #### WWDC 10111 - Boost performance and security with modern networking
 - 作者：tom，也可以称呼为小T，老司机周报编辑之一，目前在字节跳动广州研发中心工作，可以加微信：tomtan，切磋技术和聊情怀都可以喔~~~~
 - GitHub：https://github.com/tom510230
 - 博客不常更新：https://xiaozhuanlan.com/u/6682065345 或者 https://juejin.im/user/58d8cd78570c350058e249eb/posts
+
 #### WWDC 10114 - iPad and iPhone apps on Apple Silicon Macs
 #### WWDC 10143 - What's new in Mac Catalyst
 - 作者：我就是御姐我摊牌了，iOS / Flutter 开发者，目前就职于美团，负责探索 Flutter 在业务容器上的落地实践
@@ -116,7 +117,6 @@ s
 - Github：https://github.com/yousanflics
 
 #### WWDC 10076 - Diagnose performance issues with the Xcode Organizer
-
 - 作者：脱脂棉布团，iOS 开发者，目前在某小厂从事社交产品开发。
 - 博客：http://blog.chendongnan.com/
 
@@ -215,7 +215,6 @@ s
 
 #### WWDC 100147 - Distribute binary frameworks as Swift Packages
 #### WWDC 100169 - Swift packages: Resources and localization
-
 - 作者：四娘，iOS 初级开发，目前就职于格隆汇，对 Swift 和编译器相关领域感兴趣
 - 博客：https://kemchenj.github.io/
 - GitHub：https://github.com/kemchenj
@@ -230,13 +229,11 @@ s
 - GitHub：https://github.com/RickeyBoy
 
 #### WWDC20 10217 - Explore numerical computing in Swift
-
 - 作者：Nemo，iOS 初级开发者，目前就职于字节跳动
 - 博客：[https://nemocdz.github.io/](https://nemocdz.github.io/)
 - GitHub：[https://github.com/Nemocdz](https://github.com/Nemocdz)
 
 #### WWDC20 10012 - Discover Ray Tracing with Metal
-
 - 作者：F010BE，iOS 初级开发者，目前就职于字节跳动
 
 #### WWDC 10028 - Meet WidgetKit
@@ -247,7 +244,6 @@ s
 - ](https://github.com/Nemocdz)
 
 #### WWDC 10081 - What's new in MetricKit
-
 - 作者：Jerry4me，iOS 初级开发者，目前就职于字节跳动抖音直播团队
 - GitHub：https://github.com/Jerry4me
 
