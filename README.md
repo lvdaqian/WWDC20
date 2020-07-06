@@ -226,3 +226,7 @@
 - 作者：Nemo，iOS 初级开发者，目前就职于字节跳动
 - 博客：[https://nemocdz.github.io/](https://nemocdz.github.io/)
 - GitHub：[https://github.com/Nemocdz](https://github.com/Nemocdz)
+
+#### WWDC20 10012 - Discover Ray Tracing with Metal
+
+- 作者：F010BE，iOS 初级开发者，目前就职于字节跳动
