@@ -237,7 +237,6 @@
 - 博客：https://www.jianshu.com/u/d6f6c875ad03
 - GitHub: https://github.com/zvving
 - Twitter: https://twitter.com/zvving
-- ](https://github.com/Nemocdz)
 
 #### WWDC 10081 - What's new in MetricKit
 - 作者：Jerry4me，iOS 初级开发者，目前就职于字节跳动抖音直播团队
