@@ -85,8 +85,6 @@
 - 作者：wiilen，iOS 开发者。
 - Github: https://github.com/wiilen
 
-#### WWDC 10604 - Shop online with AR Quick Look
-#### WWDC 10601 - The artist’s AR toolkit
 #### WWDC 10104 - Adopt the new look of macOS
 #### WWDC 10111 - Boost performance and security with modern networking
 - 作者：tom，也可以称呼为小T，老司机周报编辑之一，目前在字节跳动广州研发中心工作，可以加微信：tomtan，切磋技术和聊情怀都可以喔~~~~
@@ -96,6 +94,8 @@
 #### WWDC 10107 - What's new in PencilKit
 #### WWDC 10148 - Inspect, modify, and construct PencilKit drawings
 #### WWDC 10106 - Meet Scribble for iPad
+#### WWDC 10604 - Shop online with AR Quick Look
+#### WWDC 10601 - The artist’s AR toolkit
 - 作者：Chafferer，iOS 初级开发者，目前就职于手百 iOS 基础研发组。
 - GitHub：https://github.com/chafferer95
 - 博客：https://www.jianshu.com/u/bd2784e2d5a3
