@@ -242,6 +242,10 @@
 - 作者：Jerry4me，iOS 初级开发者，目前就职于字节跳动抖音直播团队
 - GitHub：https://github.com/Jerry4me
 
+#### WWDC20 10641 - Handle The Limited Photo Library in your app
+- 作者：MuMu，iOS 开发者，目前就职于抖音
+- GitHub: https://github.com/raomengyun
+
 #### WWDC 10172 - Design great app clips
 - 作者：Leppard，iOS 开发者，目前就职于字节跳动音乐团队
 - 微博：https://weibo.com/u/3001966455
