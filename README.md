@@ -254,3 +254,7 @@
 #### WWDC20 10204 - Create great enterprise apps: A chat with Box's Aaron Levie
 - 作者：fakeGourmet，iOS 开发者，目前就职于字节跳动飞书团队，负责视频会议业务
 - 博客：https://fakegourmet.github.io
+
+#### WWDC20 10611 - Explore ARKit 4
+- 作者：i3dt，iOS 初级开发者，目前就职于字节跳动创作工具团队
+- GitHub: https://github.com/imundis
