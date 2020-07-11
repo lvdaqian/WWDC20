@@ -19,7 +19,7 @@
 - GitHub：https://github.com/linusling
 - 微博：https://weibo.com/linusling
 
-#### WWDC 10008 - Optimize the Core Image pipeline for your video app
+
 #### WWDC 10228 - What's new in Low-Latency HLS
 #### WWDC 10231 - Reduce Latency with HLS Blocking Playlist Reload
 #### WWDC 10655 - Discover how to download and play HLS offline
@@ -44,6 +44,14 @@
 - GitHub：https://github.com/looseyi
 - 微博：https://weibo.com/foreverclp
 - Twitter：https://twitter.com/looseyi
+
+#### WWDC 10008 - Optimize the Core Image pipeline for your video app
+#### WWDC 10021- Build Metal-based Core Image kernels with Xcode
+#### WWDC 10089-Discover Core Image debugging techniques
+- 作者：Lucca，iOS初学者，目前就职于字节跳动抖音iOS业务安全组。
+- 微博：https://weibo.com/godCard
+- GitHub：https://github.com/loksb
+- 博客：https://loksb.cn
 
 #### WWDC 10632 - Optimize Metal Performance for Apple Silicon Macs
 - 作者：Yuu，iOS 开发者，就职于 LinkedIn。
