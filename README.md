@@ -275,3 +275,5 @@
 #### WWDC20 10063 - Background execution demystified
 - 作者：lihux，iOS 开发者，就职于字节跳动
 
+#### WWDC20 10109 - Support hardware keyboards in your app
+- 作者：nsmatters， iOS 开发者，就职于字节跳动
