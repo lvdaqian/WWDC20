@@ -189,6 +189,11 @@
 - 微博：[@\_\_\_羊\_\_\_](https://weibo.com/u/1876331863)
 - Github：https://github.com/Dylan19Yang
 
+
+#### WWDC20 10036 - Widgets Code-along, part3: Advancing timelines
+- 作者：雪人少校(William)，iOS 开发者，现就职于字节跳动音乐团队
+- 博客：[WilliamSay](https://blog.nowcoder.net/williamsay)
+
 #### WWDC20 10118 - Create app clips for other businesses
 - 作者：林永坚 (Jake Lin)，Mobile Tech Lead，目前就职 realestate.com.au，负责客户产品与体验部门各个移动产品的开发
 - GitHub:https://github.com/JakeLin
