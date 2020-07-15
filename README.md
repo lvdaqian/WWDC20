@@ -48,7 +48,7 @@
 #### WWDC 10008 - Optimize the Core Image pipeline for your video app
 #### WWDC 10021- Build Metal-based Core Image kernels with Xcode
 #### WWDC 10089-Discover Core Image debugging techniques
-- 作者：Lucca，iOS初学者，目前就职于字节跳动抖音iOS业务安全组。
+- 作者：Lucca，iOS 初学者，目前就职于字节跳动抖音iOS业务安全组。
 - 微博：https://weibo.com/godCard
 - GitHub：https://github.com/loksb
 - 博客：https://loksb.cn
