@@ -277,3 +277,7 @@
 
 #### WWDC20 10109 - Support hardware keyboards in your app
 - 作者：nsmatters， iOS 开发者，就职于字节跳动
+
+#### WWDC20 10077 - Eliminate animation hitches with XCTest
+- 作者：Vong，iOS 开发者，目前就职鹅厂
+- 博客：https://vongloo.me
