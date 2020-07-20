@@ -284,3 +284,6 @@
 
 #### WWDC20 10219 - Build localization-friendly layouts using Xcode
 - 作者：martindontpanic，iOS 开发者，目前就职于字节跳动 TikTok 团队
+
+#### WWDC20 10011 - Author fragmented MPEG-4 content with AVAssetWriter
+- 作者：DengXiaoBai，iOS 初级开发者，目前就职于字节跳动直播中台团队
