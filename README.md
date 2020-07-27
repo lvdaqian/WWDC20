@@ -287,3 +287,8 @@
 
 #### WWDC20 10011 - Author fragmented MPEG-4 content with AVAssetWriter
 - 作者：DengXiaoBai，iOS 初级开发者，目前就职于字节跳动直播中台团队
+
+#### WWDC20 10004 - Expanding automation with the App Store Connect API
+- 作者：Darwin-lv, 中年程序员， 目前就职于字节跳动飞书团队
+- GitHub: https://github.com/lvdaqian
+- 博客: https:/lvdaqian.cn
